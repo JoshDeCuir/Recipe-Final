@@ -34,6 +34,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "https://recipeapp-5531d183eed9.herokuapp.com",
     "recipeapp-5531d183eed9.herokuapp.com",
+    "dark-rattlesnake-recipeapp-80416c9f.koyeb.app",
     "localhost",
     "127.0.0.1",
 ]
