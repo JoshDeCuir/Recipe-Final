@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get(
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://recipeapp-6029fdab58de.herokuapp.com/"
+    "https://recipeapp-5531d183eed9.herokuapp.com/"
     "localhost",
     "127.0.0.1",
 ]
